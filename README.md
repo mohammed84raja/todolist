@@ -9,6 +9,10 @@
 2. Underscore.js(http://underscorejs.org/)
 3. Lodash(https://lodash.com/)
 4. Ramda(http://ramdajs.com/)
+5. Plyr (https://plyr.io/)
+6. vivus (http://maxwellito.github.io/vivus/)
+7. Unicoder.js(http://tholman.com/unicoder.js/)
+8. CSS sans (https://yusugomori.com/projects/css-sans/)
 
 #Practice
 1. http://blog.canumeet.com/2016/09/16/101-javascript-interview-question/
