@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mohammed84raja/todolist.png?label=ready&title=Ready)](https://waffle.io/mohammed84raja/todolist?utm_source=badge)
 #Different frameworks:
 
 1. filamentgroup -load CSS asynchronously(https://github.com/filamentgroup/loadCSS)
